@@ -17,7 +17,7 @@ A production-ready scaffold for building multi-tenant SaaS applications with Nex
 1. Clone the repository:
 
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/Justanotherbrickinthewall/next-supabase-scaffold.git
    cd next-supabase-scaffold
    ```
 
